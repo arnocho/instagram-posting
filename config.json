@@ -1,0 +1,22 @@
+{
+    "general": {
+        "chrome_path": "./chromedriver",
+        "nb_download_per_target": 50,
+        "headless": true
+    },
+    "times": {
+        "time_after_url_change": 10,
+        "time_send_key_sleep": 2,
+        "time_after_click": 2,
+        "time_after_post": 20
+    },
+    "instagram": {
+        "USERNAME": "",
+        "PASSWORD": ""
+    },
+    "description": {
+        "folder_root" : "./dataset/",
+        "hashtags": "#instagram #love #instagood #landscape #fantastic_earth #photography #naturegeography #wonderful_places #earthpix #nature #colors_of_day #streetphotography #awesome_earthpix #moodygrams #wildernessculture #awesomeglobe #earth_shotz #earthofficial #wildnature #Photographer #sunset #nationaldestinations #beautifuldestinations #ourplanetdaily"
+    }
+    
+}
